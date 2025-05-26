@@ -33,7 +33,6 @@ module.exports = {
           "uv pip install gradio devicetorch",
           "uv pip install -r requirements_versions.txt",
           "uv pip install -r pip/modules.txt",
-          "uv pip install -r pip/llama_gpu.txt",
         ]
       }
     },
